@@ -30,6 +30,4 @@ Sowgandh N - sowgandn@hiof.no
 
 Please ask for permission to reproduce the results.
 
-
-
 Thanks!
